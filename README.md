@@ -8,10 +8,10 @@ Production-ready Applicant Tracking System backend built with FastAPI. Covers th
 Client Request
      │
      ▼
-┌──────────┐     ┌──────────┐     ┌────────────┐     ┌──────────┐
-│  Router   │────▶│ Service  │────▶│ Repository │────▶│  MSSQL   │
-│ (FastAPI) │     │ (Logic)  │     │(SQLAlchemy)│     │    DB    │
-└──────────┘     └──────────┘     └────────────┘     └──────────┘
+┌──────────┐     ┌──────────┐      ┌────────────┐      ┌──────────┐
+│  Router  │───> │ Service  │────> │ Repository │────> │  MSSQL   │
+│ (FastAPI)│     │ (Logic)  │      │(SQLAlchemy)│      │    DB    │
+└──────────┘     └──────────┘      └────────────┘      └──────────┘
                       │
                       ├──▶ External ML Parser API (httpx)
                       └──▶ SMTP Email Service
